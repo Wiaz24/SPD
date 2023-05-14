@@ -1,0 +1,4 @@
+﻿  SPD3.cpp
+C:\Users\Ja\Desktop\Semestr6\dotnet_nauka\SPD3\SPD3\SPD3.cpp(23,47): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\Ja\Desktop\Semestr6\dotnet_nauka\SPD3\SPD3\SPD3.cpp(43,3): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+  SPD3.vcxproj -> C:\Users\Ja\Desktop\Semestr6\dotnet_nauka\SPD3\x64\Debug\SPD3.exe
